@@ -1,3 +1,5 @@
 ipdb
+jupyter
 numpy
+scipy
 matplotlib
